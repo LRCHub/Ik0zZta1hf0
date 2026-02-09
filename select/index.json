@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Love Myself",
+  "base_artist": "Hailee Steinfeld",
+  "createdAt": "2026-02-09T16:18:23.067928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can't Love Myself",
+      "artist": "September",
+      "has_synced": true,
+      "path": "select/01_Can't_Love_Myself_September.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Myself",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/02_Love_Myself_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Myself - Fareoh Remix - Extended",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/03_Love_Myself_-_Fareoh_Remix_-_Extended_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Myself - Riddler Remix",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/04_Love_Myself_-_Riddler_Remix_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Myself (Toy Armada & DJ GRIND Club Mix)",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/05_Love_Myself_(Toy_Armada_&_DJ_GRIND_Club_Mix)_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Love Myself and I Wanna Live",
+      "artist": "The Blackout",
+      "has_synced": true,
+      "path": "select/06_I_Love_Myself_and_I_Wanna_Live_The_Blackout.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Love Myself For Hating You",
+      "artist": "Diamante",
+      "has_synced": true,
+      "path": "select/07_I_Love_Myself_For_Hating_You_Diamante.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Myself - From \"Jem And The Holograms\" Soundtrack",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/08_Love_Myself_-_From__Jem_And_The_Holograms__Soundtrack_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Love Myself Today",
+      "artist": "Bif Naked",
+      "has_synced": false,
+      "path": "select/09_I_Love_Myself_Today_Bif_Naked.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Love Myself Today",
+      "artist": "Bif Naked",
+      "has_synced": true,
+      "path": "select/10_I_Love_Myself_Today_Bif_Naked.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Myself",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/11_Love_Myself_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Myself on the Weekend",
+      "artist": "Coyot",
+      "has_synced": true,
+      "path": "select/12_Love_Myself_on_the_Weekend_Coyot.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Can't Love Myself",
+      "artist": "Mishaal feat. Monty Datta",
+      "has_synced": true,
+      "path": "select/13_Can't_Love_Myself_Mishaal_feat._Monty_Datta.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Can't Love Myself",
+      "artist": "Monty Datta",
+      "has_synced": true,
+      "path": "select/14_Can't_Love_Myself_Monty_Datta.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Love Myself (feat. Macklemore)",
+      "artist": "Ciara feat. Macklemore",
+      "has_synced": true,
+      "path": "select/15_I_Love_Myself_(feat._Macklemore)_Ciara_feat._Macklemore.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Love Myself",
+      "artist": "Ciara",
+      "has_synced": true,
+      "path": "select/16_I_Love_Myself_Ciara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Myself",
+      "artist": "Hailee Steinfeld",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Myself_Hailee_Steinfeld.txt"
+    }
+  ]
+}
